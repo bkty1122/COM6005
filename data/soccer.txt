@@ -1,0 +1,7 @@
+A B Home y
+UK Fr H 5
+Fr UK A 4
+UK SA A 3
+SA UK H 6
+Fr SA A 2
+SA Fr H 5
